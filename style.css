@@ -1,0 +1,189 @@
+#item {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+    
+}
+#item-cont {
+    margin-top: 50px;
+}
+#desc {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#menu {
+    font-size: 100px;
+    font-family: cursive;
+    color: rgb(7, 228, 106);
+}
+#shrimp:hover #desc {
+    font-size: 40px;
+    text-decoration: underline;  
+}
+#shrimp:hover #item {
+    font-size: 90px;
+    text-decoration: none;
+}
+#item-2 {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#desc-2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#carnitas:hover #desc-2 {
+    font-size: 40px;
+    text-decoration: underline;  
+
+}
+#carnitas:hover #item-2 {
+    font-size: 90px;
+    text-decoration: none;  
+
+}
+#item-3 {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#desc-3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#potato:hover #desc-3 {
+    font-size: 40px;
+    text-decoration: underline;  
+
+}
+#potato:hover #item-3 {
+    font-size: 90px;
+    text-decoration: none;  
+
+}
+#item-4 {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#desc-4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#mulita:hover #desc-4 {
+    font-size: 40px;
+    text-decoration: underline;  
+
+}
+#mulita:hover #item-4 {
+    font-size: 90px;
+    text-decoration: none;  
+
+}
+#item-5 {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#desc-5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#tazos:hover #desc-5 {
+    font-size: 40px;
+    text-decoration: underline;  
+
+}
+#tazos:hover #item-5 {
+    font-size: 90px;
+    text-decoration: none;  
+
+}
+#item-6 {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#desc-6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#birria:hover #desc-6 {
+    font-size: 40px;
+    text-decoration: underline;  
+
+
+}
+#birria:hover #item-6 {
+    font-size: 90px;
+    text-decoration: none;  
+
+}
+#item-7 {
+    font-size: 80px;
+    font-family: cursive;
+    text-decoration: underline;
+}
+#desc-7 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    color: rgb(173, 169, 169);
+    font-style: italic;
+}
+#corn:hover #desc-7 {
+    font-size: 40px;
+    text-decoration: underline;  
+
+}
+#corn:hover #item-7 {
+    font-size: 90px;
+    text-decoration: none;  
+}
+.icons {
+    text-align: center;
+    transform: scale(3);
+    margin-bottom: -50px;
+}
+#tacos {
+
+}
+#map {
+    text-align: center;
+    margin-top: 50px;
+}
+#contact {
+    text-align: center;
+    margin-top: 300px;
+    font-size: 25px;
+}
+#carnitas {
+    margin-top: 50px;
+}
+#potato {
+    margin-top: 50px;
+}
+#mulita {
+    margin-top: 50px;
+}
+#birria {
+    margin-top: 50px;
+}
+#corn {
+    margin-top: 50px;
+}
+#tazos {
+    margin-top: 50px;
+}
